@@ -1,6 +1,6 @@
 ---
 title: "Fang Su"
-image: "xiang.jpg"
+image: "宿芳蓝底照.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
